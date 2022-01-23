@@ -15,6 +15,9 @@ when ready to use the app simply run
 
 node employeeManager.js in the terminal
 
+# Walkthrough Video 
+https://youtu.be/lgukRSoQBnM
+
 # Questions
 If you have any questions about this project, please contact me directly at lopez1432.al@gmail.com. 
 
