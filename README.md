@@ -13,7 +13,7 @@ npm i util
 # Usage
 when ready to use the app simply run 
 
-node employeeManager.js in the terminal
+node server.js in the terminal
 
 # Walkthrough Video 
 https://youtu.be/lgukRSoQBnM
